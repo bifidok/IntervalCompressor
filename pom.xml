@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.intervals</groupId>
 	<artifactId>shiftlab</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>shiftlab</name>
 	<properties>
 		<java.version>21</java.version>
